@@ -1,4 +1,4 @@
-# Tresc-Teachable-Machine
+# Teachable-Machine
 
 This is a practice file for the deep learning series of micro-school blogs.
 
